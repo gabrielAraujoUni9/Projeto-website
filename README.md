@@ -1,2 +1,1 @@
-# Projeto-website
-Projeto semestral uni9 para a empresa Foodie
+A simple landing page - first designed in figma and then coded in React. Hope you like it.
