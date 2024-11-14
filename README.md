@@ -15,3 +15,8 @@ Link: https://foodie-six-sable.vercel.app/
 O projeto foi apresentado através de um vídeo disponível no youtube, com o fim de ser avaliado pelo professor responsável.
 
 Link: (colocar)
+
+# Integrantes
+
+- Gabriel Araujo Barbosa (2221100789)
+ 
