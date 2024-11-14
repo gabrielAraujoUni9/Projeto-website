@@ -6,18 +6,16 @@ const Testimonial = () => {
   return (
     <div className="work-section-wrapper">
       <div className="work-section-top">
-        <p className="primary-subheading">Testimonial</p>
-        <h1 className="primary-heading">What They Are Saying</h1>
+        <p className="primary-subheading">Depoimentos</p>
+        <h1 className="primary-heading">O que Eles Estão Falando?</h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+          Hoje eu posso comer de forma regulada e balanceada, porque posso confiar na FOODIE sempre preparando a minha dieta e trazendo eficiência ao meu dia a dia.
         </p>
       </div>
       <div className="testimonial-section-bottom">
         <img src={ProfilePic} alt="" />
         <p>
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+          Teste
         </p>
         <div className="testimonials-stars-container">
           <AiFillStar />
@@ -26,7 +24,7 @@ const Testimonial = () => {
           <AiFillStar />
           <AiFillStar />
         </div>
-        <h2>John Doe</h2>
+        <h2>Lucas Barros</h2>
       </div>
     </div>
   );
