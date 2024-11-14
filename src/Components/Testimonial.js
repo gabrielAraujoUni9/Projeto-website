@@ -9,13 +9,16 @@ const Testimonial = () => {
         <p className="primary-subheading">Depoimentos</p>
         <h1 className="primary-heading">O que Eles Estão Falando?</h1>
         <p className="primary-text">
-          Hoje eu posso comer de forma regulada e balanceada, porque posso confiar na FOODIE sempre preparando a minha dieta e trazendo eficiência ao meu dia a dia.
+          Hoje eu posso comer de forma regulada e balanceada, 
+          porque posso confiar na Foodie sempre preparando a minha 
+          dieta e trazendo eficiência ao meu dia a dia.
         </p>
       </div>
       <div className="testimonial-section-bottom">
         <img src={ProfilePic} alt="" />
         <p>
-          Teste
+          Adorei a empresa! Muito séria e compromissada com o cliente.
+          Sempre peço para o meu almoço!
         </p>
         <div className="testimonials-stars-container">
           <AiFillStar />
