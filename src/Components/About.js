@@ -15,15 +15,16 @@ const About = () => {
       <div className="about-section-text-container">
         <p className="primary-subheading">About</p>
         <h1 className="primary-heading">
-          A Comida é uma parte importante para uma dieta balanceada
+          A comida é uma parte importante para uma dieta balanceada
         </h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+          Pare de perder tempo preparando o sua comida e procurando
+          pelo melhores preços dos alimentos nos supermercados da 
+          sua cidade!
         </p>
         <p className="primary-text">
-          Non tincidunt magna non et elit. Dolor turpis molestie dui magnis
-          facilisis at fringilla quam.
+          Vem ser feliz com a Foodie e traga à sua vida o melhor
+          da comida natural. Feita com amor para você desfrutar do melhor! 
         </p>
         <div className="about-buttons-container">
           <button className="secondary-button">Veja mais</button>
