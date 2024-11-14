@@ -21,22 +21,22 @@ const Footer = () => {
       </div>
       <div className="footer-section-two">
         <div className="footer-section-columns">
-          <span>Qualtiy</span>
-          <span>Help</span>
-          <span>Share</span>
-          <span>Carrers</span>
-          <span>Testimonials</span>
-          <span>Work</span>
+          <span>Qualidade</span>
+          <span>Ajuda</span>
+          <span>Compartihar</span>
+          <span>Carreiras</span>
+          <span>Depoimentos</span>
+          <span>Trabalhos</span>
         </div>
         <div className="footer-section-columns">
           <span>244-5333-7783</span>
-          <span>hello@food.com</span>
-          <span>press@food.com</span>
-          <span>contact@food.com</span>
+          <span>atendimento@foodie.com</span>
+          <span>press@foodie.com</span>
+          <span>contato@foodie.com</span>
         </div>
         <div className="footer-section-columns">
-          <span>Terms & Conditions</span>
-          <span>Privacy Policy</span>
+          <span>Termos & Condições</span>
+          <span>Política de Privacidade</span>
         </div>
       </div>
     </div>
