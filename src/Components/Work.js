@@ -12,7 +12,7 @@ const Work = () => {
     },
     {
       image: ChooseMeals,
-      title: "Faça sua Dieta",
+      title: "Faça a sua Dieta",
       text: "Escolha o que você precisa sem precisar trocar seu cardápio.",
     },
     {
