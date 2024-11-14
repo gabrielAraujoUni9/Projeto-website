@@ -13,7 +13,7 @@ const About = () => {
         <img src={AboutBackgroundImage} alt="" />
       </div>
       <div className="about-section-text-container">
-        <p className="primary-subheading">About</p>
+        <p className="primary-subheading">Sobre nós</p>
         <h1 className="primary-heading">
           A comida é uma parte importante para uma dieta balanceada
         </h1>
