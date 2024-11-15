@@ -17,7 +17,9 @@ const Home = () => {
             Sua comida favorita entregue quente e fresca
           </h1>
           <p className="primary-text">
-            Chefs saudáveis ​​fazem todo o trabalho de preparação, como temperar, fatiar e marinar, para que você possa cozinhar alimentos frescos.
+            Chefs saudáveis ​​fazem todo o trabalho de preparação 
+            como: temperar, fatiar, marinar e cozinhar para que 
+            você possa comer alimentos frescos.
           </p>
           <button className="secondary-button">
             Pedir Agora <FiArrowRight />{" "}
