@@ -14,7 +14,7 @@ Link: https://foodie-six-sable.vercel.app/
 
 O projeto foi apresentado através de um vídeo disponível no youtube, com o fim de ser avaliado pelo professor responsável.
 
-Link: (colocar)
+Link: https://youtu.be/lkX8JrF8l1A
 
 # Integrantes
 
