@@ -9,9 +9,9 @@ const Testimonial = () => {
         <p className="primary-subheading">Depoimentos</p>
         <h1 className="primary-heading">O que Andam Falando?</h1>
         <p className="primary-text">
-          Hoje eu posso comer de forma regulada e balanceada, 
+          "Hoje eu posso comer de forma regulada e balanceada, 
           porque posso confiar na Foodie sempre preparando a minha 
-          dieta e trazendo eficiência ao meu dia a dia.
+          dieta e trazendo eficiência ao meu dia a dia."
         </p>
       </div>
       <div className="testimonial-section-bottom">
