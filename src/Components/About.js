@@ -20,7 +20,7 @@ const About = () => {
         <p className="primary-text">
           Pare de perder tempo preparando o sua comida e procurando
           pelo melhores preços dos alimentos nos supermercados da 
-          sua cidade!
+          sua cidade.
         </p>
         <p className="primary-text">
           Vem ser feliz com a Foodie e traga à sua vida o melhor
